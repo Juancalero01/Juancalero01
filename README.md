@@ -1,5 +1,5 @@
-### Hola soy Juan 👋
-### Estudiante de desarrollo de software
+### Hi I'm Juan 👋
+### I am student of software development, website development and digital applications.
 <!--
 **Juancalero01/Juancalero01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
