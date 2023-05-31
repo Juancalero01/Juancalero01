@@ -1,6 +1,6 @@
 # Bienvenido 👋
 
-¡Hola! Soy Juan, un apasionado desarrollador de software con experiencia en el desarrollo web y las tecnologías de backend y frontend. En este repositorio, encontrarás distintos proyectos.
+¡Hola! Soy Juan, desarrollador de software con experiencia en el desarrollo web.
 
 ## Acerca de mí
 - 💻 Actualmente, estoy enfocado en el desarrollo con NestJS y Angular.
