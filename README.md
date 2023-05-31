@@ -10,6 +10,6 @@
 
 ## Contacto
 - Correo electrónico: marcelocalero5@gmail.com
-- LinkedIn: [Tu perfil de LinkedIn](https://www.linkedin.com/in/juan-calero/)
+- LinkedIn: [Juan Calero](https://www.linkedin.com/in/juan-calero/)
 
 ¡Gracias por visitar mi repositorio! Espero que encuentres algo interesante y útil aquí. No dudes en contactarme si tienes alguna pregunta o sugerencia.
